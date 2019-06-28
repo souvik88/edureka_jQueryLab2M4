@@ -1,0 +1,4 @@
+Assignment
+
+Lab Exercise 1 : Calling Flickr API with jQuery AJAX. (done)
+Lab Exercise 2 : Working with Github API. (done)
